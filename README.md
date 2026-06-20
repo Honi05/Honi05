@@ -16,10 +16,10 @@
   p p p p p p p p  |  ─────────────────────────────────────────
   . . . . . . . .  |  name     →  honi arora
   . . . . . . . .  |  studies  →  CS & AI @ Sapienza, Rome
-  . . . . P . . .  |  title    →  FIDE Master (FM)
-  . . . N . . . .  |  coach    →  500+ students · 3 Chessable courses
-  P P P P . P P P  |  trophies →  10× Rajasthan State Champion
-  R . B Q K B . R  |  globe    →  competed across 7 countries
+  . . . . P . . .  |  title    →  FIDE Master (FM) 
+  . . . . . . . .  |  globe    →  competed across 7+ countries
+  P P P P . P P P  |  author   →  500+ students · 3 Chessable courses
+  R N B Q K B N R  |  coach    →  teaching passionate kids
 ```
 
 ---
@@ -51,7 +51,8 @@
 |---|---|
 | 🏅 **FIDE Master (FM)** | International title — competed across **7 countries** |
 | 🥇 **10× Rajasthan State Champion** | Dominant state-level record, India |
-| 📖 **3 Chessable Courses Published** | **500+ students** taught through private & group lessons |
+| 📖 **3 Chessable Courses Published** | **500+ students** |
+| 📖 **Freelancer** | **Content Editor at ModernChess** |
 
 ---
 
