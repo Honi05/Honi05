@@ -12,14 +12,14 @@
 ---
 
 ```text
-  r n b q k b n r  |  $ whoami
-  p p p p p p p p  |  ─────────────────────────────────────────
-  . . . . . . . .  |  name     →  honi arora
-  . . . . . . . .  |  studies  →  CS & AI @ Sapienza, Rome
-  . . . . P . . .  |  title    →  FIDE Master (FM) 
-  . . . . . . . .  |  globe    →  competed across 7+ countries
-  P P P P . P P P  |  author   →  500+ students · 3 Chessable courses
-  R N B Q K B N R  |  coach    →  teaching passionate kids
+  ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜  |  $ whoami
+  ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟  |  ─────────────────────────────────────────
+  · · · · · · · ·  |  name     →  honi arora
+  · · · · · · · ·  |  studies  →  CS & AI @ Sapienza, Rome
+  · · · · ♙ · · ·  |  title    →  FIDE Master (FM)
+  · · · ♘ · · · ·  |  coach    →  500+ students · 3 Chessable courses
+  ♙ ♙ ♙ ♙ · ♙ ♙ ♙  |  trophies →  10× Rajasthan State Champion
+  ♖ · ♗ ♕ ♔ ♗ · ♖  |  globe    →  competed across 7 countries
 ```
 
 ---
@@ -51,8 +51,7 @@
 |---|---|
 | 🏅 **FIDE Master (FM)** | International title — competed across **7 countries** |
 | 🥇 **10× Rajasthan State Champion** | Dominant state-level record, India |
-| 📖 **3 Chessable Courses Published** | **500+ students** |
-| 📖 **Freelancer** | **Content Editor at ModernChess** |
+| 📖 **3 Chessable Courses Published** | **500+ students** taught through private & group lessons |
 
 ---
 
