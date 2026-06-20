@@ -1,12 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:c9a84c&height=200&section=header&text=honi&fontSize=90&fontColor=c9a84c&fontAlignY=38&desc=FIDE%20Master%20%E2%99%9F%20%7C%20CS%20%26%20AI%20%40%20Sapienza%20%7C%20Developer&descAlignY=58&descColor=8b949e" />
+# ♟ honi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=C9A84C&center=true&vCenter=true&width=650&lines=FIDE+Master+%E2%99%9F+%7C+10%C3%97+Rajasthan+State+Champion;CS+%26+AI+%40+Sapienza+University+of+Rome;Full-stack+developer+%7C+chess+coach;500%2B+students+coached+%7C+7+countries+competed)](https://git.io/typing-svg)
+**CS & AI @ Sapienza University of Rome &nbsp;·&nbsp; FIDE Master &nbsp;·&nbsp; Developer**
+
+[![Website](https://img.shields.io/badge/honiarora.com-111827?style=flat-square&logo=safari&logoColor=c9a84c)](https://honiarora.com)&nbsp;
+[![SEEChess](https://img.shields.io/badge/SEEChess.com-111827?style=flat-square&logo=lichess&logoColor=c9a84c)](https://seechess.com)
 
 </div>
 
-<br>
+---
 
 ```text
   ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜    $ whoami
@@ -21,29 +24,34 @@
 
 ---
 
-## 🖥️ CS & Web Projects
+## ⬡ AI · ML · Data Science
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Fraud Detector**](https://github.com/Honi05/Fraud-Detector) | Multi-agent LLM fraud pipeline · **190th / 1,972 teams** @ Reply Hackathon | `Python` `IsolationForest` `RandomForest` `LangFuse` |
+| [**Truth Engine**](https://github.com/Honi05/Truth-Engine) | RAG pipeline with real-time web search & dynamic domain trust scoring | `Python` `RAG` `Tavily` `Streamlit` |
+| [**Chess × Covid-19**](https://github.com/Honi05/OTBChessvsCovid) | R pipeline analyzing chess participation recovery post-Covid · Sapienza DMA2 | `R` `ggplot2` `K-means` `ANOVA` `Time Series` |
+
+---
+
+## ⬡ Web Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**honiarora.com**](https://honiarora.com) | Personal portfolio with fluid animations & modern design | `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` |
 | [**SEEChess.com**](https://seechess.com) | Tournament calendar covering 11 SE European countries | `Next.js` `Supabase` `PostgreSQL` |
+| [**OjasStore**](https://github.com/Honi05/OjasStore) | Full-stack e-commerce web application | `Next.js` `Node.js` |
 | [**Biel Chess Festival**](https://bielchessfestival.ch) | Live CMS management during international chess festival | `Magnolia CMS` |
-| [**Fraud Detector**](https://github.com/Honi05/Fraud-Detector) | Multi-agent LLM fraud pipeline · **190th / 1,972 teams** @ Reply Hackathon | `Python` `scikit-learn` `LangFuse` |
-| [**Truth Engine**](https://github.com/Honi05/Truth-Engine) | RAG pipeline with real-time web search & domain trust scoring | `Python` `RAG` `Tavily` `Streamlit` |
 
 ---
 
-## ♟ Chess
+## ♔ Chess
 
-<div align="center">
-
-| 🏆 Title | 📚 Coaching | ✈️ International | 🥇 Trophies |
-|:---:|:---:|:---:|:---:|
-| **FIDE Master** | **500+ students** | **7 countries** | **10× State Champion** |
-| FM title holder | private & group lessons | competed internationally | Rajasthan, India |
-| | 3 Chessable courses published | | |
-
-</div>
+| | |
+|---|---|
+| 🏅 **FIDE Master (FM)** | International title — competed across **7 countries** |
+| 🥇 **10× Rajasthan State Champion** | Dominant state-level record, India |
+| 📖 **3 Chessable Courses Published** | **500+ students** taught through private & group lessons |
 
 ---
 
@@ -51,7 +59,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,tailwind,python,supabase,nodejs,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,tailwind,python,supabase,nodejs,postgres,r&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -59,21 +67,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=honi05&show_icons=true&theme=github_dark&hide_border=true&title_color=c9a84c&icon_color=c9a84c&text_color=8b949e&bg_color=0d1117" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=honi05&show_icons=true&theme=github_dark&hide_border=true&title_color=c9a84c&icon_color=c9a84c&text_color=8b949e&bg_color=0d1117" height="160" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honi05&layout=compact&theme=github_dark&hide_border=true&title_color=c9a84c&text_color=8b949e&bg_color=0d1117" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honi05&layout=compact&theme=github_dark&hide_border=true&title_color=c9a84c&text_color=8b949e&bg_color=0d1117" height="160" />
 
 </div>
-
----
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/honiarora.com-c9a84c?style=for-the-badge&logo=safari&logoColor=black)](https://honiarora.com)&nbsp;
-[![SEEChess](https://img.shields.io/badge/SEEChess.com-1a1a2e?style=for-the-badge&logo=lichess&logoColor=c9a84c)](https://seechess.com)
-
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,100:0d1117&height=120&section=footer" />
