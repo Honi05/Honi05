@@ -55,9 +55,10 @@
 
 | | |
 |---|---|
-| 🏅 **FIDE Master (FM)** | International title — competed across **7 countries** |
-| 🥇 **10× Rajasthan State Champion** | Dominant state-level record, India |
-| 📖 **3 Chessable Courses Published** | **500+ students** taught through private & group lessons |
+| **FIDE Master (FM)** | International title — competed across **7 countries** |
+| **10× Rajasthan State Champion** | Dominant state-level record, India |
+| **3 Chessable Courses Published** | **500+ students** taught |
+| **Freelancer** | Content Editor at ModernChess |
 
 ---
 
