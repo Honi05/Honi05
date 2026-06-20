@@ -11,28 +11,15 @@
 
 ---
 
-```
-  ♖ ♘ ♗ ♔ ♕ ♗ ♘ ♖
-  ♙ ♙ ♙ · ♙ ♙ ♙ ♙
-  · · · · · · · ·
-  · · · ♙ · · · ·
-  · · · · · · · ·
-  · · · · · · · ·
-  ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
-  ♜ ♞ ♝ ♚ ♛ ♝ ♞ ♜
-
-        your move.
-```
-
----
-
 ```text
-  name     →  honi arora
-  studies  →  CS & AI @ Sapienza University, Rome
-  title    →  FIDE Master (FM)
-  coach    →  500+ students · 3 Chessable courses
-  trophies →  10× Rajasthan State Champion
-  globe    →  competed across 7 countries
+  ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜  |  $ whoami
+  ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟  |  ─────────────────────────────────────────
+  · · · · · · · ·  |  name     →  honi arora
+  · · · · · · · ·  |  studies  →  CS & AI @ Sapienza, Rome
+  · · · · ♙ · · ·  |  title    →  FIDE Master (FM)
+  · · · ♘ · · · ·  |  coach    →  500+ students · 3 Chessable courses
+  ♙ ♙ ♙ ♙ · ♙ ♙ ♙  |  trophies →  10× Rajasthan State Champion
+  ♖ · ♗ ♕ ♔ ♗ · ♖  |  globe    →  competed across 7 countries
 ```
 
 ---
