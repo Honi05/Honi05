@@ -12,14 +12,14 @@
 ---
 
 ```text
-  ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜    $ whoami
-  ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟    ──────────────────────────────────────
-  · · · · · · · ·    name    → honi arora
-  · · · · · · · ·    studies → CS & AI @ Sapienza, Rome
-  · · · · ♙ · · ·    title   → FIDE Master (FM)
-  · · · ♘ · · · ·    coach   → 500+ students · 3 Chessable courses
-  ♙ ♙ ♙ ♙ · ♙ ♙ ♙    trophies→ 10× Rajasthan State Champion
-  ♖ · ♗ ♕ ♔ ♗ · ♖    globe   → competed across 7 countries
+  r n b q k b n r  |  $ whoami
+  p p p p p p p p  |  ─────────────────────────────────────────
+  . . . . . . . .  |  name     →  honi arora
+  . . . . . . . .  |  studies  →  CS & AI @ Sapienza, Rome
+  . . . . P . . .  |  title    →  FIDE Master (FM)
+  . . . N . . . .  |  coach    →  500+ students · 3 Chessable courses
+  P P P P . P P P  |  trophies →  10× Rajasthan State Champion
+  R . B Q K B . R  |  globe    →  competed across 7 countries
 ```
 
 ---
@@ -28,8 +28,8 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Fraud Detector**](https://github.com/Honi05/Fraud-Detector) | Multi-agent LLM fraud pipeline · **190th / 1,972 teams** @ Reply Hackathon | `Python` `IsolationForest` `RandomForest` `LangFuse` |
-| [**Truth Engine**](https://github.com/Honi05/Truth-Engine) | RAG pipeline with real-time web search & dynamic domain trust scoring | `Python` `RAG` `Tavily` `Streamlit` |
+| [**Truth Engine**](https://github.com/michelebenigniDoit/TruthEngine) | RAG pipeline with real-time web search & dynamic domain trust scoring | `Python` `RAG` `Tavily` `Streamlit` |
+| [**Fraud Detector**](https://github.com/Honi05/Fraud-Detector) | Multi-agent LLM fraud pipeline · **2nd @ Sapienza** out of 2,000+ teams — Reply Hackathon | `Python` `IsolationForest` `RandomForest` `LangFuse` |
 | [**Chess × Covid-19**](https://github.com/Honi05/OTBChessvsCovid) | R pipeline analyzing chess participation recovery post-Covid · Sapienza DMA2 | `R` `ggplot2` `K-means` `ANOVA` `Time Series` |
 
 ---
@@ -40,7 +40,7 @@
 |---------|-------------|-------|
 | [**honiarora.com**](https://honiarora.com) | Personal portfolio with fluid animations & modern design | `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` |
 | [**SEEChess.com**](https://seechess.com) | Tournament calendar covering 11 SE European countries | `Next.js` `Supabase` `PostgreSQL` |
-| [**OjasStore**](https://github.com/Honi05/OjasStore) | Full-stack e-commerce web application | `Next.js` `Node.js` |
+| [**OjasStore**](https://ojasstore.netlify.app/) | Full-stack e-commerce web application | `Next.js` `Node.js` |
 | [**Biel Chess Festival**](https://bielchessfestival.ch) | Live CMS management during international chess festival | `Magnolia CMS` |
 
 ---
