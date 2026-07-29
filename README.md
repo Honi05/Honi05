@@ -1,11 +1,11 @@
 <div align="center">
 
-# ♔ honi
+# 𝗵𝗼𝗻𝗶
 
 **CS & AI @ Sapienza University of Rome &nbsp;·&nbsp; FIDE Master &nbsp;·&nbsp; Developer**
 
 [![Website](https://img.shields.io/badge/honiarora.com-111827?style=flat-square&logo=nextdotjs&logoColor=c9a84c)](https://honiarora.com)&nbsp;
-[![SEEChess](https://img.shields.io/badge/SEEChess.com-111827?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iJTIzYzlhODRjIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjUuNSIgcj0iMyIvPjxwYXRoIGQ9Ik05IDEwYy0xIDEuNS0xLjUgMy41LTEuNSA1LjVoOUMxNi41IDEzLjUgMTYgMTEuNSAxNSAxMEg5eiIvPjxyZWN0IHg9IjciIHk9IjE3IiB3aWR0aD0iMTAiIGhlaWdodD0iMS41IiByeD0iLjUiLz48cmVjdCB4PSI2IiB5PSIyMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjIiIHJ4PSIuNSIvPjwvc3ZnPgo=)](https://see-chess.com)
+[![SEEChess](https://img.shields.io/badge/SEEChess.com-111827?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2M5YTg0YyI+PGNpcmNsZSBjeD0iMTIiIGN5PSI1LjUiIHI9IjMiLz48cGF0aCBkPSJNOSAxMGMtMSAxLjUtMS41IDMuNS0xLjUgNS41aDlDMTYuNSAxMy41IDE2IDExLjUgMTUgMTBIOXoiLz48cmVjdCB4PSI3IiB5PSIxNyIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEuNSIgcng9Ii41Ii8+PHJlY3QgeD0iNiIgeT0iMjAiIHdpZHRoPSIxMiIgaGVpZ2h0PSIyIiByeD0iLjUiLz48L3N2Zz4K)](https://see-chess.com)
 
 </div>
 
