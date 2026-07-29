@@ -34,6 +34,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**DeepFake Detector**](https://github.com/Honi05/DeepFakeDetector) | EfficientNet-B4 deepfake detector with Grad-CAM explainability & forensic reports · **99.9% Video AUC** | `Python` `PyTorch` `EfficientNet` `Grad-CAM` `Gradio` |
 | [**Truth Engine**](https://github.com/michelebenigniDoit/TruthEngine) | RAG pipeline with real-time web search & dynamic domain trust scoring | `Python` `RAG` `Tavily` `Streamlit` |
 | [**Fraud Detector**](https://github.com/Honi05/Fraud-Detector) | Multi-agent LLM fraud pipeline · **2nd @ Sapienza** out of 2,000+ teams — Reply Hackathon | `Python` `IsolationForest` `RandomForest` `LangFuse` |
 | [**Chess × Covid-19**](https://github.com/Honi05/OTBChessvsCovid) | R pipeline analyzing chess participation recovery post-Covid · Sapienza DMA2 | `R` `ggplot2` `K-means` `ANOVA` `Time Series` |
@@ -74,8 +75,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=honi05&show_icons=true&theme=github_dark&hide_border=true&title_color=c9a84c&icon_color=c9a84c&text_color=8b949e&bg_color=0d1117" height="160" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=honi05&show_icons=true&theme=github_dark&hide_border=true&title_color=c9a84c&icon_color=c9a84c&text_color=8b949e&bg_color=0d1117" height="160" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honi05&layout=compact&theme=github_dark&hide_border=true&title_color=c9a84c&text_color=8b949e&bg_color=0d1117" height="160" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=honi05&layout=compact&theme=github_dark&hide_border=true&title_color=c9a84c&text_color=8b949e&bg_color=0d1117" height="160" />
 
 </div>
