@@ -5,7 +5,7 @@
 **CS & AI @ Sapienza University of Rome &nbsp;·&nbsp; FIDE Master &nbsp;·&nbsp; Developer**
 
 [![Website](https://img.shields.io/badge/honiarora.com-111827?style=flat-square&logo=safari&logoColor=c9a84c)](https://honiarora.com)&nbsp;
-[![SEEChess](https://img.shields.io/badge/SEEChess.com-111827?style=flat-square&logo=lichess&logoColor=c9a84c)](https://seechess.com)
+[![SEEChess](https://img.shields.io/badge/SEEChess.com-111827?style=flat-square&logo=lichess&logoColor=c9a84c)](https://see-chess.com)
 
 </div>
 
