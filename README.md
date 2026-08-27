@@ -46,7 +46,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**honiarora.com**](https://honiarora.com) | Personal portfolio with fluid animations & modern design | `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` |
-| [**SEEChess.com**](https://seechess.com) | Tournament calendar covering 11 SE European countries | `Next.js` `Supabase` `PostgreSQL` |
+| [**SEEChess.com**](https://see-chess.com) | Tournament calendar covering 11 SE European countries | `Next.js` `Supabase` `PostgreSQL` |
 | [**OjasStore**](https://ojasstore.netlify.app/) | Full-stack e-commerce web application | `Next.js` `Node.js` |
 | [**Biel Chess Festival**](https://bielchessfestival.ch) | Live CMS management during international chess festival | `Magnolia CMS` |
 
@@ -68,15 +68,5 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,ts,tailwind,python,supabase,nodejs,postgres,r&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=honi05&show_icons=true&theme=github_dark&hide_border=true&title_color=c9a84c&icon_color=c9a84c&text_color=8b949e&bg_color=0d1117" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=honi05&layout=compact&theme=github_dark&hide_border=true&title_color=c9a84c&text_color=8b949e&bg_color=0d1117" height="160" />
 
 </div>
