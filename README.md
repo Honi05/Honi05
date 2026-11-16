@@ -6,12 +6,8 @@ class Honi:
     study = "CS & AI @ Sapienza, Rome"
     focus = ["Computer Vision", "RAG", "LLM agents"]
     stack = ["PyTorch", "FastAPI", "Next.js", "TypeScript"]
-    win   = "2nd / 2,000+ teams @ Reply Hackathon"
-    also  = "FIDE Master ♟"
+    chess = "International Chess Player · FIDE Master"
 ```
-
-[![Website](https://img.shields.io/badge/honiarora.com-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://honiarora.com)&nbsp;
-[![SEEChess](https://img.shields.io/badge/SEEChess.com-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://see-chess.com)
 
 ---
 
